@@ -57,6 +57,25 @@
         "details": "Business intelligence (BI) refers to the procedural and technical infrastructure that collects, stores, and analyzes the data produced by a company's activities. BI is a broad term that encompasses data mining, process analysis, performance benchmarking, and descriptive analytics."
       },
     {
+        "_id": "919hkurthysrr7tstyhsscdfa08130",
+        "others_info": {
+          "courses_price": 9000,
+          "is_trending": true
+        },
+       
+        "rating": { "number": 4.9, "badge": "Excellent" },
+        "total_buy": 32,
+        "title": "Project Management",
+        "teacher": {
+          "name": "Lois Black",
+          "enrol_date": "2023-01-01 ",
+          "img": "https://teamhood.com/wp-content/uploads/2021/02/project-management.jpg"
+        },
+       
+        "image_url": "https://twproject.com/blog/wp-content/uploads/project-management-software-in-mother-tongue.png",
+        "details": "Project management is the process of leading the work of a team to achieve all project goals within the given constraints. This information is usually described in project documentation, created at the beginning of the development process. The primary constraints are scope, time, and budget."
+      },
+    {
         "_id": "9skgrltstyhsscdfa08130",
         "others_info": {
           "courses_price": 7500,
