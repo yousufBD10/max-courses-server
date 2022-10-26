@@ -9,16 +9,16 @@ const course = require('./data/course.json')
 
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Max Courses!')
 });
-app.get('courses',(req,res)=>{
+app.get('/courses',(req,res)=>{
     res.send(course)
 })
 app.get('/courses/:id',(req,res)=>{
   const id= req.params.id;
  
-  const selectedNews = news.find( n => n._id === id)
-    res.send(selectedNews)
+  const selectedCourses = course.find( course => course._id === id)
+    res.send(selectedCourses)
 })
 
 

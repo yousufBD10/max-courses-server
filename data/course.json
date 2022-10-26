@@ -1,6 +1,6 @@
 [
     {
-        "_id": "919db97c34e0778b387dd40cdfa08130",
+        "_id": "01",
         "others_info": {
           "courses_price": 6000,
           "is_trending": true
@@ -19,7 +19,7 @@
         "details": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data, and apply knowledge from data across a broad range of application domains."
       },
     {
-        "_id": "919djydjydj78b387dd40cdfa08130",
+        "_id": "02",
         "others_info": {
           "courses_price": 8000,
           "is_trending": true
@@ -38,7 +38,7 @@
         "details": "Big data refers to data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many fields offer greater statistical power, while data with higher complexity may lead to a higher false discovery rate.Big data refers to data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many fields ."
       },
     {
-        "_id": "919db97dfysr7tstyhsscdfa08130",
+        "_id": "03",
         "others_info": {
           "courses_price": 4500,
           "is_trending": true
@@ -57,7 +57,7 @@
         "details": "Business intelligence (BI) refers to the procedural and technical infrastructure that collects, stores, and analyzes the data produced by a company's activities. BI is a broad term that encompasses data mining, process analysis, performance benchmarking, and descriptive analytics."
       },
     {
-        "_id": "919db97dfygrthghsscdfa08130",
+        "_id": "04",
         "others_info": {
           "courses_price": 5500,
           "is_trending": true
@@ -76,7 +76,7 @@
         "details": "Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and. Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components"
       },
     {
-        "_id": "919hkurthysrr7tstyhsscdfa08130",
+        "_id": "05",
         "others_info": {
           "courses_price": 9000,
           "is_trending": true
@@ -95,7 +95,7 @@
         "details": "Project management is the process of leading the work of a team to achieve all project goals within the given constraints. This information is usually described in project documentation, created at the beginning of the development process. The primary constraints are scope, time, and budget."
       },
     {
-        "_id": "9skgrltstyhsscdfa08130",
+        "_id": "06",
         "others_info": {
           "courses_price": 7500,
           "is_trending": true
