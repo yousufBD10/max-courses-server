@@ -55,6 +55,25 @@
        
         "image_url": "https://productschool.com/wp-content/uploads/2019/07/Business-Intelligence-1024x827.jpg",
         "details": "Business intelligence (BI) refers to the procedural and technical infrastructure that collects, stores, and analyzes the data produced by a company's activities. BI is a broad term that encompasses data mining, process analysis, performance benchmarking, and descriptive analytics."
+      },
+    {
+        "_id": "9skgrltstyhsscdfa08130",
+        "others_info": {
+          "courses_price": 7500,
+          "is_trending": true
+        },
+       
+        "rating": { "number": 4.7, "badge": "Excellent" },
+        "total_buy": 32,
+        "title": "Cloud Computing",
+        "teacher": {
+          "name": "Bentley Bourn",
+          "enrol_date": "2022-10-30 ",
+          "img": "https://helpdeskgeek.com/wp-content/pictures/2022/01/cloud-computing.jpeg"
+        },
+       
+        "image_url": "https://en.pimg.jp/079/085/286/1/79085286.jpg",
+        "details": "Simply put, cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale . Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each location being a data center"
       }
     
 ]
