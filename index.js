@@ -20,6 +20,12 @@ app.get('/courses/:id',(req,res)=>{
   const selectedCourses = course.find( course => course._id === id)
     res.send(selectedCourses)
 })
+app.get('/course/:id',(req,res)=>{
+  const id= req.params.id;
+ 
+  const checkoutpage = course.find( course => course.checkout_id === id)
+    res.send(checkoutpage)
+})
 
 
 

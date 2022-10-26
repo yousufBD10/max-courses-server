@@ -1,6 +1,7 @@
 [
     {
         "_id": "01",
+        "checkout_id": "datascience",
         "others_info": {
           "courses_price": 6000,
           "is_trending": true
@@ -20,6 +21,7 @@
       },
     {
         "_id": "02",
+        "checkout_id": "bigdata",
         "others_info": {
           "courses_price": 8000,
           "is_trending": true
@@ -35,10 +37,11 @@
         },
        
         "image_url": "https://bleuwire.com/wp-content/uploads/2019/12/big-data-cloud-based-solution.png",
-        "details": "Big data refers to data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many fields offer greater statistical power, while data with higher complexity may lead to a higher false discovery rate.Big data refers to data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many fields ."
+        "details": "Big data refers to data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many fields offer greater statistical power, while data with higher complexity may lead to a higher false discovery rate."
       },
     {
         "_id": "03",
+        "checkout_id": "businessintelligence",
         "others_info": {
           "courses_price": 4500,
           "is_trending": true
@@ -58,6 +61,7 @@
       },
     {
         "_id": "04",
+        "checkout_id": "softwaredevolopment",
         "others_info": {
           "courses_price": 5500,
           "is_trending": true
@@ -73,10 +77,11 @@
         },
        
         "image_url": "https://img.freepik.com/free-vector/software-development-team-abstract-concept-illustration-remote-teamwork-digital-team-demand-professional-certified-software-developer-hire-outsource-company_335657-932.jpg?w=2000",
-        "details": "Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and. Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components"
+        "details": "Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and. Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications,"
       },
     {
         "_id": "05",
+        "checkout_id": "projectmanagment",
         "others_info": {
           "courses_price": 9000,
           "is_trending": true
@@ -96,6 +101,7 @@
       },
     {
         "_id": "06",
+        "checkout_id": "cloudcomputing",
         "others_info": {
           "courses_price": 7500,
           "is_trending": true
@@ -111,7 +117,7 @@
         },
        
         "image_url": "https://en.pimg.jp/079/085/286/1/79085286.jpg",
-        "details": "Simply put, cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale . Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each location being a data center"
+        "details": "Simply put, cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale ."
       }
     
 ]
