@@ -1,0 +1,60 @@
+[
+    {
+        "_id": "919db97c34e0778b387dd40cdfa08130",
+        "others_info": {
+          "courses_price": 6000,
+          "is_trending": true
+        },
+       
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_buy": 89,
+        "title": "Data Science",
+        "teacher": {
+          "name": "Jack Proper",
+          "enrol_date": "2022-12-30 ",
+          "img": "https://www.wur.nl/upload_mm/b/a/7/39c8fdf4-9cd0-4e23-9ded-b8e3134a9f50_DS%20in%20a%20nutshell_3dbfa15e_670x651.png"
+        },
+       
+        "image_url": "https://miro.medium.com/max/720/1*uEgluDkiU2pmYmGKnuRqOw.jpeg",
+        "details": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data, and apply knowledge from data across a broad range of application domains."
+      },
+    {
+        "_id": "919djydjydj78b387dd40cdfa08130",
+        "others_info": {
+          "courses_price": 8000,
+          "is_trending": true
+        },
+       
+        "rating": { "number": 4.9, "badge": "Excellent" },
+        "total_buy": 76,
+        "title": "Big Data",
+        "teacher": {
+          "name": "Jack Proper",
+          "enrol_date": "2022-11-30 ",
+          "img": "https://www.emergingedtech.com/wp/wp-content/uploads/2014/06/BigData.jpg"
+        },
+       
+        "image_url": "https://bleuwire.com/wp-content/uploads/2019/12/big-data-cloud-based-solution.png",
+        "details": "Big data refers to data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many fields offer greater statistical power, while data with higher complexity may lead to a higher false discovery rate.Big data refers to data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many fields ."
+      },
+    {
+        "_id": "919db97dfysr7tstyhsscdfa08130",
+        "others_info": {
+          "courses_price": 4500,
+          "is_trending": true
+        },
+       
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_buy": 89,
+        "title": "Business Intelligence",
+        "teacher": {
+          "name": "Frank Anderson",
+          "enrol_date": "2022-11-30 ",
+          "img": "https://nix-united.com/wp-content/uploads/2022/03/1920_1280.jpg"
+        },
+       
+        "image_url": "https://productschool.com/wp-content/uploads/2019/07/Business-Intelligence-1024x827.jpg",
+        "details": "Business intelligence (BI) refers to the procedural and technical infrastructure that collects, stores, and analyzes the data produced by a company's activities. BI is a broad term that encompasses data mining, process analysis, performance benchmarking, and descriptive analytics."
+      }
+    
+]
