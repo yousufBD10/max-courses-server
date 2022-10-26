@@ -57,6 +57,25 @@
         "details": "Business intelligence (BI) refers to the procedural and technical infrastructure that collects, stores, and analyzes the data produced by a company's activities. BI is a broad term that encompasses data mining, process analysis, performance benchmarking, and descriptive analytics."
       },
     {
+        "_id": "919db97dfygrthghsscdfa08130",
+        "others_info": {
+          "courses_price": 5500,
+          "is_trending": true
+        },
+       
+        "rating": { "number": 4.9, "badge": "Excellent" },
+        "total_buy": 5300,
+        "title": "Software Development",
+        "teacher": {
+          "name": "Jhanker Mahmud",
+          "enrol_date": "2022-12-24 ",
+          "img": "https://cdn.dribbble.com/users/508588/screenshots/11263679/thg_m78_05_4x.jpg"
+        },
+       
+        "image_url": "https://img.freepik.com/free-vector/software-development-team-abstract-concept-illustration-remote-teamwork-digital-team-demand-professional-certified-software-developer-hire-outsource-company_335657-932.jpg?w=2000",
+        "details": "Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and. Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components"
+      },
+    {
         "_id": "919hkurthysrr7tstyhsscdfa08130",
         "others_info": {
           "courses_price": 9000,
